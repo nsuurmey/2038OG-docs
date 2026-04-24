@@ -1,0 +1,25 @@
+{
+  "name": "og-exploration-brief",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "homepage": "https://nsuurmey.github.io/2038OG-docs",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lucide-react": "^1.9.0",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.0.1",
+    "autoprefixer": "^10.5.0",
+    "postcss": "^8.5.10",
+    "tailwindcss": "^3.4.19",
+    "vite": "^8.0.10"
+  }
+}
